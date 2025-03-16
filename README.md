@@ -7,43 +7,8 @@ Hi, I'm Starlong.👋
 
 <div>
   <details>
-    <summary>Technologies</summary>
+    <summary>Coffee Mode</summary>
     <br />
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,vite,webpack,nodejs,pnpm,html,css,sass,tailwind,git,github,vscode,python,express,mongodb,docker&perline=10" />
-  </details>
-</div>
-
-<div>
-  <details>
-    <summary>My Stats</summary>
-    <br />
-    <div align="left">
-      <img src="https://streak-stats.demolab.com?user=6starlong&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6starlong&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="180" alt="languages graph"  />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=6starlong&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph" />
-    </div>
-  </details>
-</div>
-
-<div>
-  <details>
-    <summary>Find me on</summary>
-    <br />
-    <div>
-      <a href="mailto:starlong.lu@gmail.com">
-        <img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <a href="https://github.com/6starlong">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <a href="https://starlong.vercel.app">
-        <img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-      </a>
-    </div>
-  </details>
-</div>
-
-<br />
 
 ```javascript
 const coder = {
@@ -96,5 +61,47 @@ await coder.refill().refill().code() // 两杯咖啡
 await coder.refill().refill().refill().code() // 三杯咖啡
 await coder.sleep() // 休息
 ```
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Technologies</summary>
+    <br />
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,vite,webpack,nodejs,pnpm,html,css,sass,tailwind,git,github,vscode,python,express,mongodb,docker&perline=10" />
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>My Stats</summary>
+    <br />
+    <div align="left">
+      <img src="https://streak-stats.demolab.com?user=6starlong&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6starlong&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="180" alt="languages graph"  />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=6starlong&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph" />
+    </div>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Find me on</summary>
+    <br />
+    <div>
+      <a href="mailto:starlong.lu@gmail.com">
+        <img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <a href="https://github.com/6starlong">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="https://starlong.vercel.app">
+        <img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+      </a>
+    </div>
+  </details>
+</div>
+
+<br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=6starlong&color=blue&style=flat)
